@@ -7,3 +7,7 @@
 #### Name: [Sruthy M L](https://github.com/sru-thy)
 - Place: Kerala, India
 - Bio: Student
+
+#### Name: Raksha Raj
+Place: Bangalore
+Bio: ECE Graduate
